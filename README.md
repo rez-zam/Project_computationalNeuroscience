@@ -2,10 +2,10 @@
 This repository is about project of computational neuroscience 
 
 ## 1.Problem statement
-  explain your goal of project
+Analysis and visualization of neuronal activity patterns in V1 and V4 populations of macaque monkey brain
 
 ## 2.Related works
-  explores existing research and solutions related to your project
+Feature representation under crowding in macaque V1 and V4 neuronal populations
 
 ## 3.Proposed Method
 
